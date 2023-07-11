@@ -16,7 +16,7 @@ Instalation
 N/A
 
 Usage
-To view this webpage copy and paste this link in a web browser: 
+To view this webpage copy and paste this link in a web browser:  https://glansburg.github.io/ReadMeGenerator/ 
 <img width="358" alt="Screenshot 2023-07-10 182242" src="https://github.com/Glansburg/ReadMeGenerator/assets/117139285/9f85bae2-6d0e-41dc-afd5-927ab82bb883">
 
 
